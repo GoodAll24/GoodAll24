@@ -5,12 +5,8 @@ Aprendi otros lenguajes como javascript, python y java, pero con enfonque de apr
 Llevo trabajando como Freelancer desde los 20.
 
 ## 🚀 Proyectos
-- [AltaVoz]([https://your-project-1-url.com](https://alta-voz.com/))
+- [AltaVoz](https://alta-voz.com/)
 
-## 💻 Repositorios
-- [Repositorio 1](https://github.com/your_username/repository1)
-- [Repositorio 2](https://github.com/your_username/repository2)
-- [Repositorio 3](https://github.com/your_username/repository3)
 
 ## 🔧 Habilidades Principales
 - Desarrollo backend usando node.js (javascript).
